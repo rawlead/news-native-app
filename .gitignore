@@ -1,0 +1,12 @@
+
+.DS_Store
+.expo/
+.idea/
+.watchmanconfig
+App.js
+app.json
+assets/
+babel.config.js
+node_modules/
+package-lock.json
+package.json
